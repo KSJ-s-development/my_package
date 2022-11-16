@@ -1,4 +1,4 @@
-from .. import out
+from .. import out # 현재 폴더의 out.py 파일을 호출
 
 def my_function():
     print("모듈 내에 있는 함수")
